@@ -1,0 +1,19 @@
+{
+  "name": "bigfu-cli",
+  "version": "1.2.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "bigfu": "./bin/index.js",
+    "mumu": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bigfu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "inquirer": "^8.0.0"
+  }
+}
